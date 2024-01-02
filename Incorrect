@@ -1,0 +1,4 @@
+   else:
+            attempts -= 1
+            if attempts > 0:
+                print(f"Incorrect. You have {attempts} attempts left.")
